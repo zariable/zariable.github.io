@@ -83,7 +83,7 @@ author:
   avatar           : "profile.png"
   bio              : "Jun Yu holds a Ph.D. in Computer Science from Oregon State University and has more than 10 years of experience in developing machine-learning algorithms and applying machine-learning techniques to solve large-scale, real-world problems."
   location         : "Seattle WA"
-  employer         : "Amazon"
+  employer         : 
   googlescholar    : "http://scholar.google.com/citations?user=adpOueEAAAAJ"
   email            : "yujunnokia@gmail.com"
   uri              : "https://zariable.github.io/"
