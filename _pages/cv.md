@@ -63,4 +63,4 @@ Publications
 
 Talks
 ======
-* TBD.
+* Bidding Strategy for Google Product Listing Ads in eBay Paid Search. The Data Science Conference. 2017.
