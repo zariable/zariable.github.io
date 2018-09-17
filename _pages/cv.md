@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click __[here](https://github.com/zariable/zariable.github.io/blob/master/files/resume_JunYu.pdf)__ for Jun Yu's latest resume
+Click __[here](https://github.com/zariable/zariable.github.io/blob/master/files/resume.pdf)__ for Jun Yu's latest resume
 
 Experience
 ======
