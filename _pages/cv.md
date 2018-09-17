@@ -24,7 +24,7 @@ Experience
   * **_Trust_** Built a large-scale machine learning model to predict seller risk and reduce the number of defective transactions on eBay via search ranking demotion, which translates to 100+ million GMB lift annually.
   * **_Search_** Implemented a topic model based approach to retrieve diverse items based on user buying intents and improved the user satisfaction by 6+%.
 
-* __Oregon State University - PhD Researcher [September 2006 - December 2013]__
+* __Oregon State University - PhD Researcher__ [September 2006 - December 2013]
   * Developed probabilistic graphical models to predict species distribution with citizen science data, which significantly improved the accuracy of species distribution.
   * Developed a generative mixture model in the eBird human/computer learning network to quantify the skill level of citizen scientists in the eBird project.
 
