@@ -16,8 +16,10 @@ Experience
 * __Amazon - Senior Applied Scientist and Tech Lead__ [October 2017 - Now]
   * **_Promotion_** Lead a team of applied scientists to forecast sale velocity for various Amazon deals, generate promotion recommendations for sellers and vendors and optimize the deal scheduling to maximize customer satisfaction. We build large-scale demand forecasting models on Spark and a ML inference platform to surface model predictions in real time.
 
-#* __University of Washington - Instructor__ [September 2018 - Now]
-#  * Design and Teach the **_Advanced Machine Learning_** course for Professional & Continuing Education program in University of Washington.
+<!---
+* __University of Washington - Instructor__ [September 2018 - Now]
+  * Design and Teach the **_Advanced Machine Learning_** course for Professional & Continuing Education program in University of Washington.
+-->
 
 * __eBay - Applied Science Tech Lead__ [December 2013 - October 2017]
   * **_Marketing_** Led a team of 8 applied researchers to power eBay’s paid internet marketing by improving the bidding strategies on Google and Facebook to maximize ROI. Our models improved the ROI by 27% in 2016, leading to millions more GMB annually.
