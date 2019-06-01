@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an experienced technical leader with expertise in machine learning, paid internet marketing and recommendation system. I have a passion for applying machine learning and artificial intelligence techniques, and building innovative products to solve challenging real-world problems.
+I am an experienced technical leader with expertise in machine learning, advertising and recommendation system. I have a passion for applying machine learning and artificial intelligence techniques and building innovative products to solve challenging real-world problems.
 
-I am currently working as a senior applied scientist and tech lead at Amazon, where I lead a team of scientists and engineers to forecast sales velocity for various Amazon promotions, generate promotion recommendations for Amazon selling partners and optimize deal scheduling to maximize customer satisfaction.
+I am currently working as a senior applied scientist and tech lead at Amazon, where I lead a team of scientists and engineers to forecast sales velocity for various promotions, rank recommendations on Seller Central homepage for selling partners and estimate the long term impact of seller actions.
 
-Before joining Amazon, I was an MTS applied tech lead at eBay where my team built machine-learning solutions for eBay's paid internet marketing on Google and Facebook. Our mission is to drive high quality internet traffic from outside eBay for a given fixed budget so that we maximize the return-over-investment. Our team built various ML products (including click through rate model, conversion rate model and production/customer segmentation) to optimize the bidding strategies in online ad auctions and provide personalized recommendations for various marketing channels.
+Before joining Amazon, I was a research tech lead at eBay where our team built machine learning solutions for the paid internet marketing on Google and Facebook. Our ML model optimizes the bidding strategies, provides personalized recommendations to drive high quality traffic to eBay, and maximizes the return-over-investment.
+
+I also have a passion in teaching and helping more people into the field of machine learning and data science. Currently I teach several courses in [the Foster School of Business](https://foster.uw.edu/) at University of Washington, including Advanced ML, Deep Learning and Big Data, and Natural Language Processing.
 
 I received my Ph.D in [Computer Science](http://eecs.oregonstate.edu/) from [Oregon State University](https://oregonstate.edu/) working with [Dr. Weng-Keen Wong](http://web.engr.oregonstate.edu/~wongwe/). During the Ph.D. study, my research focused on using probabilistic graphical models and crowdsourcing to predict species distribution using citizen science data and quantify the skill level of citizen scientists in the [eBird project](https://ebird.org/home). I've published more than 15 papers in top-tier machine learning and citizen science conferences and journals. Please refer to the publication page for details.
