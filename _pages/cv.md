@@ -16,12 +16,11 @@ Experience
 * __Snap - Engineering Manager__ [October 2019 - Now]
   * I lead the friend ranking team in building machine learning systems to power Quick Add on Snapchat. Our mission is to help new users find their first friends and existing users find other Snapchatters that they actually want to talk to, through relevant and timely friend recommendations in Quick Add.
 
-* __Amazon - Senior Applied Scientist and Tech Lead__ [October 2017 - October 2019]
-  * **_Promotion_** Lead a team of applied scientists to forecast sale velocity for various Amazon deals, generate promotion recommendations for sellers and vendors and optimize the deal scheduling to maximize customer satisfaction. We build large-scale demand forecasting models on Spark and a ML inference platform to surface model predictions in real time.
-
 * __University of Washington - Adjunct Professor__ [September 2018 - Now]
   * I have a passion in teaching and helping more people into the field of machine learning and data science. Currently I teach several machine learning courses in the Foster School of Business at University of Washington, including advanced Machine Learning, Deep Learning and Nature Language Processing.
 
+* __Amazon - Senior Applied Scientist and Tech Lead__ [October 2017 - October 2019]
+  * **_Promotion_** Lead a team of applied scientists to forecast sale velocity for various Amazon deals, generate promotion recommendations for sellers and vendors and optimize the deal scheduling to maximize customer satisfaction. We build large-scale demand forecasting models on Spark and a ML inference platform to surface model predictions in real time.
 
 * __eBay - Applied Science Tech Lead__ [December 2013 - October 2017]
   * **_Marketing_** Led a team of 8 applied researchers to power eBay’s paid internet marketing by improving the bidding strategies on Google and Facebook to maximize ROI. Our models improved the ROI by 27% in 2016, leading to millions more GMB annually.
@@ -40,7 +39,7 @@ Education
 Skills
 ======
 * __Python and R__ for training machine learning models, data analytics and rapid prototyping.
-* __Scala and Java__ for building and deploying end-to-end application in production.
+* __Java and Scala__ for building and deploying end-to-end application in production.
 * __Spark and Scalding__ for building ML pipelines and training larges-scale ML models.
 * __SQL__ for ad-hoc queries on RDBMS
 
