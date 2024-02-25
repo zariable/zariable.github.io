@@ -13,57 +13,32 @@ Click __[here](https://drive.google.com/file/d/1yD3WFDSlbJ4WsxQ1OcuRKIScprwMPPnV
 
 Experience
 ======
-* __Snap - Engineering Manager__ [October 2019 - Now]
-  * I lead the friend ranking team in building machine learning systems to power Quick Add on Snapchat. Our mission is to help new users find their first friends and existing users find other Snapchatters that they actually want to talk to, through relevant and timely friend recommendations in Quick Add.
+* __Snap - Senior Engineering Manager__ [Oct 2019 - Now]
+  * I am the single-threaded owner of a business critical area “Friending” at Snap and led teams of client, backend, and ML engineers and managers across multiple geo locations. We build products, such as friend recommendation systems, nearby friends, friending notification/sms, spam prevention, that help users make virtuous friends on Snapchat and experience our value proposition. Innovations such as EBR, GNN boosted topline Friending OKRs by 2-3x. 
 
-* __University of Washington - Adjunct Professor__ [September 2018 - Now]
-  * I have a passion in teaching and helping more people into the field of machine learning and data science. Currently I teach several machine learning courses in the Foster School of Business at University of Washington, including advanced Machine Learning, Deep Learning and Nature Language Processing.
+* __University of Washington - Adjunct Professor__ [Sep 2018 - Feb 2024]
+  * I have a passion for teaching and helping more people into the field of machine learning and data science. I currently teach several graduate-level courses in the Foster School of Business, including Advanced Machine Learning, Deep Learning, and Natural Language Processing.
 
-* __Amazon - Senior Applied Scientist and Tech Lead__ [October 2017 - October 2019]
-  * **_Promotion_** Lead a team of applied scientists to forecast sale velocity for various Amazon deals, generate promotion recommendations for sellers and vendors and optimize the deal scheduling to maximize customer satisfaction. We build large-scale demand forecasting models on Spark and a ML inference platform to surface model predictions in real time.
+* __Amazon - Senior Applied Scientist and Tech Lead__ [Oct 2017 - Oct 2019]
+  * **_Forecasting_** I built ML models to forecast products’ sales velocity in realtime to source high-quality deals and optimize the deal scheduling for Amazon Prime Day 2018 & 2019.
+  * **_Recommendation_** I led the team in building the recommendation system to personalize and rank content on Amazon Seller Central Homepage and other push delivery channels (emails, push notifications and SMS) in order to maximize user engagement.
+  * **_Downstream Impact_** I built Amazon’s first seller downstream impact causal model to estimate the incremental long-term economic impact of a single seller-initiated action. Outcomes are used in budget allocation, content recommendation and A/B test reporting.
 
-* __eBay - Applied Science Tech Lead__ [December 2013 - October 2017]
-  * **_Marketing_** Led a team of 8 applied researchers to power eBay’s paid internet marketing by improving the bidding strategies on Google and Facebook to maximize ROI. Our models improved the ROI by 27% in 2016, leading to millions more GMB annually.
-  * **_Trust_** Built a large-scale machine learning model to predict seller risk and reduce the number of defective transactions on eBay via search ranking demotion, which translates to 100+ million GMB lift annually.
-  * **_Search_** Implemented a topic model based approach to retrieve diverse items based on user buying intents and improved the user satisfaction by 6+%.
+* __eBay - Applied Science Tech Lead__ [Dec 2013 - Oct 2017]
+  * **_Marketing_** I led a team of 8 applied researchers to power eBay’s paid internet marketing by improving the bidding strategies on Google and Facebook to maximize ROI. Our models improved the ROI by 27% in 2016, leading to millions more GMB annually.
+  * **_Trust_** I built a large-scale machine learning model to predict seller risk and reduce the number of defective transactions on eBay via search ranking demotion, which translates to 100+ million GMB lift annually.
+  * **_Search_** I implemented a topic model based approach to retrieve diverse items based on user buying intents and improved the user satisfaction by 6+%.
 
-* __Oregon State University - PhD Researcher__ [September 2006 - December 2013]
-  * Developed probabilistic graphical models to predict species distribution with citizen science data, which significantly improved the accuracy of species distribution.
-  * Developed a generative mixture model in the eBird human/computer learning network to quantify the skill level of citizen scientists in the eBird project.
+* __Oregon State University - PhD Researcher__ [Sep 2006 - Dec 2013]
+  * I developed probabilistic graphical models to predict species distribution with citizen science data, which significantly improved the accuracy of species distribution.
+  * I developed a generative mixture model in the eBird human/computer learning network to quantify the skill level of citizen scientists in the eBird project.
 
 Education
 ======
 * Ph.D. in Computer Science, Oregon State University [2006 - 2013]
+  * Thesis: Machine Learning For Improving The Quality of Citizen Science Data.
 * B.S. in Computer Science, Wuhan University, China [2002 - 2006]
 
-Skills
+Publications
 ======
-* __Python and R__ for training machine learning models, data analytics and rapid prototyping.
-* __Java and Scala__ for building and deploying end-to-end application in production.
-* __Spark and Scalding__ for building ML pipelines and training larges-scale ML models.
-* __SQL__ for ad-hoc queries on RDBMS
-
-[Publications](https://zariable.github.io/publications/)
-======
-* *Can observation skills of citizen scientists be estimated using species accumulation curves?* PLOS-ONE. 2015.
-* *The eBird enterprise: an integrated approach to the development and application of citizen science.* Biological Conservation. 2014.
-* *eBird: a human/computer learning network for biodiversity conservation and research.* AI magazine. 2013.
-* *Bayesian and empirical Bayesian forests.* ICML. 2015.
-* *Modeling misidentification of bird species by citizen scientists.* AAAI. 2014.
-* *HC-Search for Multi-Label Prediction: An Empirical Study.* AAAI.2014.
-* *Clustering species accumulation curves to identify groups of citizen scientists with similar skill levels.* IAAI. 2014.
-* *Latent Dirichlet Allocation based diversified retrieval for e-commerce search.* WSDM. 2014.
-* *Clustering species accumulation curves to identify groups of citizen scientists with similar skill levels.* NIPS workshop. 2013.
-* *Modeling misidentification of bird species by citizen scientists.* NIPS workshop. 2013.
-* *Automated data verification in a large-scale citizen science project: a case study.* eScience, 2013.
-* *eBird: a human/computer learning network for biodiversity conservation and research.* IAAI. 2012.
-* *Crowdsourcing citizen science data quality with a human-computer learning network.* NIPS workshop. 2013.
-* *Multi-label classification for species distribution modeling.* ICML workshop. 2011.
-* *The implementation of automated data verification processes in a large-scale citizen science project.* eScience workshop. 2012.
-* *Modeling experts and novices in citizen science data for species distribution modeling.* ICDM. 2010.
-* *Learning algorithms for link prediction based on chance-constraints.* ECML. 2010.
-* *Chance-constrained programs for link prediction.* NIPS workshop. 2009.
-
-Talks
-======
-* Bidding Strategy for Google Product Listing Ads in eBay Paid Search. The Data Science Conference. 2017.
+I have published 20+ papers in ML journals and conferences. Please [Publication Page](https://zariable.github.io/publications/) for paper details. 
