@@ -11,8 +11,6 @@ redirect_from:
 
 Click __[here](https://drive.google.com/file/d/1yD3WFDSlbJ4WsxQ1OcuRKIScprwMPPnV/view?usp=sharing)__ for my latest resume.
 
-Experience
-======
 * __Snap - Senior Engineering Manager__ [Oct 2019 - Now]
   * I am the single-threaded owner of a business critical area “Friending” at Snap and led teams of client, backend, and ML engineers and managers across multiple geo locations. We build products, such as friend recommendation systems, nearby friends, friending notification/sms, spam prevention, that help users make virtuous friends on Snapchat and experience our value proposition. Innovations such as EBR, GNN boosted topline Friending OKRs by 2-3x. 
 
