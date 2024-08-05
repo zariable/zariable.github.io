@@ -1,7 +1,7 @@
 ---
 title: 'Hello World'
-date: 2018-09-16
-permalink: /posts/2018/09/blog-post-1/
+date: 2024-08-04
+permalink: /posts/2024/08/hello-world/
 tags:
   - day1
 ---
