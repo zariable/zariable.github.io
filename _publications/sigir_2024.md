@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/sigir_2024
 excerpt: "Pau Kung, Zihao Fan, Tong Zhao, Yozen Liu, Zhixin Lai, Jiahui Shi, Yan Wu, Jun Yu, Neil Shah, Ganesh Venkataraman"
 date: 2024-07-14
-venue: "The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2024"
+venue: "The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"
 paperurl:
 citation:
 ---

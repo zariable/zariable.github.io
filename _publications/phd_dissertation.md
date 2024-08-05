@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/phd_dissertation
 excerpt: "Jun Yu"
 date: 2013-12-01
-venue: "Ph.D Dissertation at Oregon State University 2013"
+venue: "Ph.D Dissertation at Oregon State University"
 paperurl:
 citation:
 ---

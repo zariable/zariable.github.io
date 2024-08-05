@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/jy_2015_01
 excerpt: ""
 date: 2015-10-09
-venue: "PLoS One 2015"
+venue: "PLoS One"
 paperurl:
 citation:
 ---
