@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jun Yu's Homepage"
+title                    : "JY's Gradient Descent"
 title_separator          : "-"
 name                     : &name "Jun Yu"
-description              : &description "My random walk as a Machine Learning Practitioner"
+description              : &description "My gradient descent as a lifelong learner."
 url                      : https://zariable.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zariable/zariable.github.io"
