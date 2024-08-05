@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/sigir_2023
 excerpt: "Jiahui Shi, Vivek Chaurasiya, Yozen Liu, Shubham Vij, Yan Wu, Satya Kanduri, Neil Shab, Peicheng Yu, Nik Srivastava, Lei Shi, Ganesh Venkataraman, and Jun Yu"
 date: 2023-01-01
-venue: "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '23), July 23--27, 2023, Taipei, Taiwan"
+venue: "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023"
 paperurl:
 citation:
 ---

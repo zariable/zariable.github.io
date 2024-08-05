@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/escience_2011
 excerpt: "Steve Kelling, Jun Yu, Jeff Gerbracht, and Weng-Keen Wong"
 date: 2011-01-01
-venue: "The IEEE International Conference on eScience Workshop"
+venue: "The IEEE International Conference on eScience Workshop 2011"
 paperurl:
 citation:
 ---
