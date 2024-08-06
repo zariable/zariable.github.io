@@ -39,4 +39,4 @@ Education
 
 Publications
 ======
-I have published 20+ papers in ML journals and conferences. Please [Publication Page](https://zariable.github.io/publications/) for paper details. 
+I have published 20+ papers in ML journals and conferences. Please <span style="color:blue">[Publication Page](https://zariable.github.io/publications/)</span> for paper details. 
