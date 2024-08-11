@@ -1,5 +1,6 @@
 ---
-layout: archive
+# layout: archive
+permalink: /
 title: "Experience"
 permalink: /experience/
 author_profile: true
