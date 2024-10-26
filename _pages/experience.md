@@ -12,8 +12,8 @@ redirect_from:
 
 Click __[here](https://drive.google.com/file/d/1yD3WFDSlbJ4WsxQ1OcuRKIScprwMPPnV/view?usp=sharing)__ for my latest resume.
 
+  * I support teams in Core Growth engineering org in driving community growth and user engagement, including Friending Product team, Growth ML team, Growth Foundation team, Data Engineering team, and Graph Understanding Platform. Also, I have been the single-threaded owner of a business critical area “Friending” which helps users make virtuous friendships on Snapchat. We build products, such as friend recommendation (PYMK), search recommendation and ranking, push notification, off platform sharing to help users make virtuous friends and drive user engagement and retention with innovations such as [embedding based retrieval](https://zariable.github.io/publication/sigir_2023), [graph neural network](https://zariable.github.io/publication/www_2021).
 * __Snap // Senior Engineering Manager__ [Oct 2019 - Now]
-  * I am the single-threaded owner of a business critical area “Friending” at Snap and led teams of client, backend, and ML engineers and managers across multiple geo locations. We build products, such as friend recommendation systems, nearby friends, friending notification/sms, spam prevention, that help users make virtuous friends on Snapchat and experience our value proposition. Innovations such as EBR, GNN boosted topline Friending OKRs by 2-3x. 
 
 * __University of Washington // Adjunct Professor__ [Sep 2018 - Feb 2024]
   * I have a passion for teaching and helping more people into the field of machine learning and data science. I currently teach several graduate-level courses in the Foster School of Business, including Advanced Machine Learning, Deep Learning, and Natural Language Processing.
