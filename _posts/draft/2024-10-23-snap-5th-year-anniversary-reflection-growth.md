@@ -1,9 +1,9 @@
 ---
-title: 'Snap 5th Year Lookback // Growth'
+title: 'Growth = Step-Function Changes + Incremental Improvements'
 date: 2024-10-23
 permalink: /posts/2024/10/snap_year5_growth/
 tags:
-  - snap_year5
+  # - growth
 ---
 
 October 2024 marks my fifth year at Snap, making this my second-longest tenure with an organization, aside from my graduate program. While there are still many challenges to tackle at work, I want to take a moment to reflect on the journey that brought me here and to share some of the insights and lessons I've gathered along the way—many of which were learned the hard way.
@@ -24,19 +24,17 @@ Looking closely at the success metrics of Friend Recommendation over the years (
 
 __Step-Function Changes__
 
-First, let's discuss the significant step-function changes and why they are crucial for growth. Like the roles The Development of Language, The Agricultural Revolution, and The Industrial Revolution played in the human history, I found similar changes in driving growth through Friending products. Since I have personally experienced each of these changes and can readily associate the surge in the chart with specific feature launches. These moments are truly exciting and the work laid the foundations that unlocks opportunities that were once considered unattainable. For example, we invested in building the online ML feature store that reduced the engineering efforts by 5-10x, the embedding based retrieval system that motivates the continuous improvement of user embedding, and , just to name a few. Another example is embedding based retrieval for Friend Recommendations.   
+First, let's discuss the significant step-function changes and why they are crucial for growth. Like the roles The Development of Language, The Agricultural Revolution, and The Industrial Revolution played in the human history, I found similar events in building Friending products. I have personally experienced each of these changes and can readily associate the surge in the chart with specific feature launches. For example, the online feature store enabled feature engineering of ML models for Snap scale, [embedding based retrieval](https://zariable.github.io/publication/sigir_2023) that introduced a new way to retrieve candidates and motivates the continuous improvement of user embedding, and notable UX and UI changes in reducing friction of Friending experience. These moments are truly exciting and the work laid the foundations and unlocked opportunities that were once considered unattainable. 
 
-[talk about why it is hard to do step-function changes]
+While these step function changes are instrumental in the evolution of the product, why we do not see them very often. I think they can be categories into two buckets. One bucket is the step foundation changes are signficantly less likly to happen as the product matures. This assume the team has done a great job in exploring what is out there and possible, and the next step function change won't happen till the next innovation of technology or new product ideas. The other bucket is that the team has not made those bold bets that eventually let to those step function changes. There can be many different reasons why the investments have not been made. 
 
 While big changes do occur, they are inherently rare, less likely to happen as the product matures, and most importantly in sufficient to driving growth by themselves alone. Now, let’s turn our attention to the small, incremental changes.
 
 __Incremental Improvements__
 
-The human brain tends to latch onto a few significant events. For instance, many people remember that Dwight Eisenhower survived a heart attack in 1955, while far fewer notice the remarkable 70% reduction in the death rate from heart disease over the past 70 years due to advances in detection and treatment.
+The human brain tends to latch onto a few significant events. In Morgan Housel's book 'Same as Ever', he wrote that many people remember that Dwight Eisenhower survived a heart attack in 1955, while far fewer notice the remarkable 70% reduction in the death rate from heart disease since then thanks to advances in detection and treatment because that is 1.5% each year on average, too small of a number to notice by most.
 
-<!-- Similarly in growth, people celebrate and remember the big wins, and the incremental changes are less noticeable and often times overlooked. When we launched the first version of user embedding using Graph Neural Networks, we drafted an email to the executives and threw a party celebrating the big win. Since the initial launch, we have had 10+ successful iterations (not counting the failed ones) in improving the embedding quality. To my surprise, if you combined the compound metric gains from later iterations, it far exceeds the gains from the initial launch. Again, compound effect applies its magic. The learning here is don't solely reply on big changes, and overlook the seeming small ones. When we have enough of them, their compound efforts can surprise you.  -->
-
-Similarly, in the domain of growth, people tend to celebrate and remember the big wins, while the incremental changes often go unnoticed and are frequently overlooked. When we launched the first version of user embedding using [Graph Neural Networks](https://zariable.github.io/publication/sigir_2023), we celebrated the achievement with an email to executives and a party. Since that initial launch, we’ve successfully iterated on the embedding quality more than ten times (not counting the unsuccessful attempts). To my surprise, when I later combine the compound metric gains from these later iterations, they far surpass the gains from the initial launch. The compound effect works its magic. My takeaway is we should not rely solely on big and step-fnctional changes in driving growth while overlooking the seemingly small but incremental ones; when enough incremental improvements accumulate, their combined impact can be astonishing.
+Similarly, in the domain of growth, people tend to celebrate and remember the big wins, while the incremental changes often go unnoticed and are frequently overlooked. Here is an interesting story I experience firsthand. When we launched the first version of user embedding using [Graph Neural Networks](https://zariable.github.io/publication/sigir_2023), we celebrated the achievement with an email to executives and a party. Since that initial launch, we’ve successfully iterated on the embedding quality more than ten times (not counting the unsuccessful attempts). To my surprise, when I later combine the compound metric gains from these later iterations, they far surpass the gains from the initial launch. The compound effect works its magic. My takeaway is we should not rely solely on big and step-fnctional changes in driving growth while overlooking the seemingly small but incremental ones; when enough incremental improvements accumulate, their combined impact can be astonishing.
 
 __An Analogy from Machine Learning__
 
