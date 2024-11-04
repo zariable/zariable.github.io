@@ -1,9 +1,9 @@
 ---
 title: 'Growth = Step-Function Changes + Incremental Improvements'
 date: 2024-10-23
-permalink: /posts/2024/10/snap_year5_growth/
+permalink: /posts/2024/10/growth/
 tags:
-  # - growth
+  - growth
 ---
 
 October 2024 marks my fifth year at Snap, making this my second-longest tenure with an organization, aside from my graduate program. While there are still many challenges to tackle at work, I want to take a moment to reflect on the journey that brought me here and to share some of the insights and lessons I've gathered along the way—many of which were learned the hard way. In this post, I will share my observations on growth. 
