@@ -1,10 +1,10 @@
-<!-- ---
+---
 title: 'Growth = Step-Function Changes + Incremental Improvements'
 date: 2024-10-23
 permalink: /posts/2024/10/snap_year5_growth/
 tags:
   # - growth
---- -->
+---
 
 October 2024 marks my fifth year at Snap, making this my second-longest tenure with an organization, aside from my graduate program. While there are still many challenges to tackle at work, I want to take a moment to reflect on the journey that brought me here and to share some of the insights and lessons I've gathered along the way—many of which were learned the hard way.
 
@@ -24,11 +24,11 @@ Looking closely at the success metrics of Friend Recommendation over the years (
 
 __Step-Function Changes__
 
-First, let's discuss the significant step-function changes and why they are crucial for growth. Like the roles The Development of Language, The Agricultural Revolution, and The Industrial Revolution played in the human history, I found similar events in building Friending products. I have personally experienced each of these changes and can readily associate the surge in the chart with specific feature launches. For example, the online feature store enabled feature engineering of ML models for Snap scale, [embedding based retrieval](https://zariable.github.io/publication/sigir_2023) that introduced a new way to retrieve candidates and motivates the continuous improvement of user embedding, and notable UX and UI changes in reducing friction of Friending experience. These moments are truly exciting and the work laid the foundations and unlocked opportunities that were once considered unattainable. 
+First, let's discuss the significant step-function changes and why they are crucial for growth. Just as the Development of Language, the Agricultural Revolution, and the Industrial Revolution were pivotal in human history, similar events have shaped the evolution of Friend Recommendation products. I can trace each major surge in the success metrics to specific feature launches. For instance, the first online feature store enabled feature engineering at Snap’s scale, [embedding-based retrieval](https://zariable.github.io/publication/sigir_2023) introduced a new method for candidate retrieval, and the continuous improvement of user embeddings, along with significant UX and UI updates, reduced friction in the friending experience. These moments are truly exciting, as they laid the foundations and unlocked possibilities once considered out of reach. 
 
-While these step function events can change the growth trajectory of a product, we do not see them often. One possibility is these step foundation changes are signficantly less likly to occur as the product matures. In this case, the next step function change only happen when there are new technology innovations or new product ideas. But far more often it is because the team didn't make bold bets that eventually led to those step function changes. There can be many different reasons why the investments have not been made. 
+While these step-function events can shift a product’s growth trajectory, they are relatively rare. As a product matures, these foundational shifts become less frequent, often only occurring with the emergence of new technology or innovative product ideas. However, it’s more often the case that these shifts don’t happen because the team hasn’t made bold bets—or enough of them—to drive transformational change. Step-function changes don’t necessarily come from moonshot ideas; they often arise from ideas in which we have high conviction, supported by success in similar products in the industry. The key is to make deliberate decisions to invest in these initiatives, beyond just focusing on tactics. 
 
-While big changes do occur, they are inherently rare, less likely to happen as the product matures, and most importantly in sufficient to driving growth by themselves alone. Now, let’s turn our attention to the small, incremental changes.
+While big changes do occur, they are inherently rare and insufficient to drive growth by themselves alone. Now, let’s turn our attention to the small, incremental changes.
 
 __Incremental Improvements__
 
