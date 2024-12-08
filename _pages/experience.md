@@ -13,17 +13,17 @@ redirect_from:
 Click __[here](https://drive.google.com/file/d/1yD3WFDSlbJ4WsxQ1OcuRKIScprwMPPnV/view?usp=sharing)__ for my latest resume.
 
 * __Snap // Senior Engineering Manager__ [Oct 2019 - Now]
-  * I support teams in Core Growth engineering org in driving community growth and user engagement, including Friending Product team, Growth ML team, Growth Foundation team, Data Engineering team, and Graph Understanding Platform. Also, I have been the single-threaded owner of a business critical area “Friending” which helps users make virtuous friendships on Snapchat. We build products, such as friend recommendation (PYMK), search recommendation and ranking, push notification, off platform sharing to help users make virtuous friends and drive user engagement and retention with innovations such as [embedding based retrieval](https://zariable.github.io/publication/sigir_2023), [graph neural network](https://zariable.github.io/publication/www_2021).
+  * I support the Friending product team, Growth Machine Learning team, Growth Foundational team, and the Graph Understanding Platform at Snap. We develop features to enhance the Friending experience, deliver ML solutions and infrastructure to power various growth products (e.g., friend recommendation, notification, search, send-to, invite, and off-platform sharing), and build a new Graph Understanding Platform to mine signals from complex entity relationships on Snapchat, unlocking new business opportunities. Key innovations include [embedding based retrieval](https://zariable.github.io/publication/sigir_2023) and [graph neural network](https://zariable.github.io/publication/www_2021).
 
 * __University of Washington // Adjunct Professor__ [Sep 2018 - Feb 2024]
-  * I have a passion for teaching and helping more people into the field of machine learning and data science. I currently teach several graduate-level courses in the Foster School of Business, including Advanced Machine Learning, Deep Learning, and Natural Language Processing.
+  * I have a passion for teaching and helping more people into the field of machine learning and data science. I taught several graduate-level courses in the Foster School of Business, including Advanced Machine Learning, Deep Learning, and Natural Language Processing.
 
-* __Amazon // Senior Applied Scientist and Tech Lead__ [Oct 2017 - Oct 2019]
+* __Amazon // Senior Applied Scientist__ [Oct 2017 - Oct 2019]
   * **_Forecasting_** I built ML models to forecast products’ sales velocity in realtime to source high-quality deals and optimize the deal scheduling for Amazon Prime Day 2018 & 2019.
   * **_Recommendation_** I led the team in building the recommendation system to personalize and rank content on Amazon Seller Central Homepage and other push delivery channels (emails, push notifications and SMS) in order to maximize user engagement.
   * **_Downstream Impact_** I built Amazon’s first seller downstream impact causal model to estimate the incremental long-term economic impact of a single seller-initiated action. Outcomes are used in budget allocation, content recommendation and A/B test reporting.
 
-* __eBay // Applied Science Tech Lead__ [Dec 2013 - Oct 2017]
+* __eBay // Machine Learning Engineer__ [Dec 2013 - Oct 2017]
   * **_Marketing_** I led a team of 8 applied researchers to power eBay’s paid internet marketing by improving the bidding strategies on Google and Facebook to maximize ROI. Our models improved the ROI by 27% in 2016, leading to millions more GMB annually.
   * **_Trust_** I built a large-scale machine learning model to predict seller risk and reduce the number of defective transactions on eBay via search ranking demotion, which translates to 100+ million GMB lift annually.
   * **_Search_** I implemented a topic model based approach to retrieve diverse items based on user buying intents and improved the user satisfaction by 6+%.
