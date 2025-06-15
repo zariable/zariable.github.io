@@ -18,7 +18,7 @@ Click __[here](https://drive.google.com/file/d/1yD3WFDSlbJ4WsxQ1OcuRKIScprwMPPnV
 * __Snap // Senior Engineering Manager__ [Oct 2019 - Apr 2025]
   * I support the Friending product team, Growth Machine Learning team, Growth Foundational team, and the Graph Understanding Platform at Snap. We develop features to enhance the Friending experience, deliver ML solutions and infrastructure to power various growth products (e.g., friend recommendation, notification, search, send-to, invite, and off-platform sharing), and build a new Graph Understanding Platform to mine signals from complex entity relationships on Snapchat, unlocking new business opportunities. Key innovations include [embedding based retrieval](https://zariable.github.io/publication/sigir_2023) and [graph neural network](https://zariable.github.io/publication/www_2021).
 
-* __University of Washington // Adjunct Professor__ [Sep 2018 - Feb 2024]
+* __University of Washington // Adjunct Professor (Part-time)__ [Sep 2018 - Feb 2024]
   * I have a passion for teaching and helping more people into the field of machine learning and data science. I taught several graduate-level courses in the Foster School of Business, including Advanced Machine Learning, Deep Learning, and Natural Language Processing.
 
 * __Amazon // Senior Applied Scientist__ [Oct 2017 - Oct 2019]
