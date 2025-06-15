@@ -12,7 +12,10 @@ redirect_from:
 
 Click __[here](https://drive.google.com/file/d/1yD3WFDSlbJ4WsxQ1OcuRKIScprwMPPnV/view?usp=sharing)__ for my latest resume.
 
-* __Snap // Senior Engineering Manager__ [Oct 2019 - Now]
+* __Whatnot // Buyer Growth__ [May 2025 - Now]
+  * I support Buyer Growth, driving user acquisition, activation, and onboarding to help new users discover their "magic moment" so they return, engage, and become loyal customers. Our mission is to enable anyone to turn their passion into a business and bring people together through commerce. 
+
+* __Snap // Senior Engineering Manager__ [Oct 2019 - Apr 2025]
   * I support the Friending product team, Growth Machine Learning team, Growth Foundational team, and the Graph Understanding Platform at Snap. We develop features to enhance the Friending experience, deliver ML solutions and infrastructure to power various growth products (e.g., friend recommendation, notification, search, send-to, invite, and off-platform sharing), and build a new Graph Understanding Platform to mine signals from complex entity relationships on Snapchat, unlocking new business opportunities. Key innovations include [embedding based retrieval](https://zariable.github.io/publication/sigir_2023) and [graph neural network](https://zariable.github.io/publication/www_2021).
 
 * __University of Washington // Adjunct Professor__ [Sep 2018 - Feb 2024]
