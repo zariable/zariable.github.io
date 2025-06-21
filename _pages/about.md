@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an engineering leader with over a decade of experience in Growth and Machine Learning, with a proven track record of driving user and business growth across social and e-commerce platforms (Whatnot, Snap, Amazon, eBay). I’ve led business-critical products spanning user acquisition (performance marketing, SEO & SEM, referrals, sharing, etc), activation (onboarding & education, authentication), and retention (friend search and recommendation systems, push notifications & SMS, promotion, and risk management). 
+I’m an engineering leader with over a decade of experience in Growth and Machine Learning and a proven track record of driving user and business growth in social and e-commerce platforms (Whatnot, Snap, Amazon, eBay). I’ve led business-critical products spanning user acquisition (performance marketing, SEO & SEM, referrals, sharing, etc), activation (onboarding & education, authentication), and retention (friend search and recommendation systems, push notifications & SMS, promotion, and risk management). 
 
 Currently at Whatnot, I lead Buyer Growth, driving user acquisition, activation, and onboarding to help new users discover their "magic moment" so they return, engage, and become loyal customers. Our mission is to enable anyone to turn their passion into a business and bring people together through commerce. 
 
